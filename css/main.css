@@ -1,0 +1,12 @@
+.header{width:100%;background:#0099CC;text-align: center}
+.header h1.title{color: #fff;font-size: 20px;font-weight: bolder;}
+.focus{font-size:13px;margin-left:10px;line-height:30px;color: #CC3333}
+.input-row{height:60px;position: relative;}
+.input-row label{line-height: 2.6}
+.input-row input{height:60px;}
+.select{position:relative;width:65%;height:60px;background: 0;border:0;font-size: 15px;box-shadow: none;padding:0;}
+.input-row .icon{position:absolute;right:0;;top:50%;margin-top: -12px;right:20px;}
+
+.toggle.active:before{content:'是'}
+.toggle:before{content:'否'}
+.table-view-cell .btn{right:0;line-height:50px;}
